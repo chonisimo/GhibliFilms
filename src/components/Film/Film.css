@@ -1,0 +1,72 @@
+.contenedor {
+    position: relative;
+    display: inline-flex;
+    width: 400px;
+    height: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgb(68, 59, 126);
+}
+
+.FilmFicha {
+    display: block;
+    margin-bottom: 50px;
+    border: 3px solid rgb(63, 138, 182);
+    border-radius: 10px;
+    width: 300px;
+    height: 1150px;
+    background-color: snow;
+}
+
+.FilmFecha {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    font-size: 48px;
+    background-color: rgb(119, 204, 119);
+    color: rgb(241, 255, 255);
+    transition: ease-out 0.5s;
+}
+
+.FilmFecha:hover {
+    background-color: rgb(209, 83, 83);
+}
+
+.FilmPoster {
+    width: 300px;
+    height: 400px;
+}
+
+.FilmTitulo {
+    text-decoration: underline;
+    font-size: 36px;
+}
+
+.FilmDescripcion {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    width: 290px;
+    margin: auto;
+}
+
+.FilmInfo {
+    position: absolute;
+    width: 300px;
+    bottom: 55px;
+    font-weight: bold;
+}
+
+.FilmEstrellas {
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.estrellas {
+    height: 50px;
+    width: 50px;
+}
+
+   
