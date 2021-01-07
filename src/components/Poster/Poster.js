@@ -17,7 +17,7 @@ const posters = {
     Ponyo: "https://www.mauvais-genres.com/26714-thickbox_default/ponyo-on-the-cliff-original-movie-poster-27x40-in-2008-studio-ghibli-hayao-miyazaki.jpg",
     Arrietty: "https://noescinetodoloquereluce.com/wp-content/uploads/2011/06/arriety_y_el_mundo_de_los_diminutos.jpg",
     From_Up_on_Poppy_Hill: "https://i.pinimg.com/originals/14/96/5a/14965a074f76a304eb1c49028870e576.jpg",
-    The_Wind_Rises: "https://www.arthipo.com/image/cache/catalog/genel-tasarim/all-posters/sinema-cinema-film-postersleri/yabanci-filmler/pfilm742-kaze-tachinu_5ab3a420-movie-film-posteri-1000x1000.jpg",
+    The_Wind_Rises: "https://m.media-amazon.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_.jpg://www.arthipo.com/image/cache/catalog/genel-tasarim/all-posters/sinema-cinema-film-postersleri/yabanci-filmler/pfilm742-kaze-tachinu_5ab3a420-movie-film-posteri-1000x1000.jpg",
     The_Tale_of_the_Princess_Kaguya: "https://i.pinimg.com/originals/7e/02/8c/7e028c97b7f5fd0a557bb6d62be346da.jpg",
     When_Marnie_Was_There: "https://m.media-amazon.com/images/M/MV5BZTlmYTJmMWEtNDRhNy00ODc1LTg2OTMtMjk2ODJhNTA4YTE1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
 }
